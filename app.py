@@ -59,29 +59,6 @@ def get_sensor(sensor_id, days):
     return jsonify(rs)
 
 
-# @app.route('/irrigation', methods=['POST'])
-# def set_irrigation():
-#     if not request.json:
-#         abort(400)
-#
-#     logger.debug(request.json)
-#     format = '%Y-%m-%d %H:%M:%S.%f'
-#
-#     start = datetime.strptime(request.json['start'], format)
-#     duration = float(request.json['duration'])
-#     id_relay = int(request.json['id_relay'])
-#     # start = datetime.strptime(start, format)
-#
-#     ir = Irrigation(id_relay=id_relay, start=start, duration=duration)
-#     ir.insert_irrigation()
-#     logger.debug('start:{} duration:{} id_relay:{}'.format(start, duration, id_relay))
-#
-#     t = Thread(target=ir.add_scheduler)
-#     t.start()
-#
-#     return 'irrigation inserted into database'
-
-
 @app.route('/insert_irrigation', methods=['POST'])
 def insert_irrigation():
     if not request.json:
@@ -106,23 +83,6 @@ def insert_irrigation():
         return 'There is irrigation scheduled at the same time'
 
 
-@app.route('/sample', methods=['POST', 'GET'])
-def sample():
-    print('salu2')
-    if not request.json:
-        abort(400)
-
-    start = request.json['start']
-    duration = request.json['duration']
-    id_relay = request.json['id_relay']
-
-    print(start)
-    print(duration)
-    print(id_relay)
-
-    return 'soy moreno'
-
-
 @app.errorhandler(404)
 def not_found(error):
     return make_response(jsonify({'error': 'Not found'}), 404)
@@ -141,6 +101,4 @@ def unauthorized():
 
 
 if __name__ == '__main__':
-    # app.run(debug=True)
     manager.run()
-    # socketio.run(app)
