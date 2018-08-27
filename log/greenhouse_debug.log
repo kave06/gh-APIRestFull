@@ -1,0 +1,40 @@
+2018-07-25 13:48:45,476 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 13:48:47,775 DEBUG    app.py         insert_irrigation:90  {'start': '2018-07-25 13:48:53.768103', 'duration': 0.15, 'liters': 5, 'end': '2018-07-25 13:49:02.768103', 'id_relay': 4}
+2018-07-25 13:48:47,852 DEBUG    model.py       __my_connect   :34  connected to database
+2018-07-25 13:48:47,868 DEBUG    model.py       __check_irrigation_collision:118 result set:()
+2018-07-25 13:48:47,868 DEBUG    model.py       insert_irrigation:93  collision:False
+2018-07-25 13:48:47,938 DEBUG    model.py       __my_connect   :34  connected to database
+2018-07-25 13:48:48,020 DEBUG    app.py         insert_irrigation:100 insert:True
+2018-07-25 13:48:48,021 DEBUG    irrigation.py  add_scheduler  :41  irrigation start: 0:00:05.746569
+2018-07-25 13:48:48,022 DEBUG    irrigation.py  add_scheduler  :42  irrigation end: 14.746569
+2018-07-25 13:48:53,800 DEBUG    relay.py       set_state      :40  gui.uva.es4 payload:ON hostname:gui.uva.es port:5578
+2018-07-25 13:48:53,801 DEBUG    irrigation.py  set_irrigation :30  state of relay: ON
+2018-07-25 13:49:02,796 DEBUG    relay.py       set_state      :40  gui.uva.es4 payload:OFF hostname:gui.uva.es port:5578
+2018-07-25 13:49:02,796 DEBUG    irrigation.py  set_irrigation :30  state of relay: OFF
+2018-07-25 13:49:02,797 DEBUG    irrigation.py  add_scheduler  :46  irrigation end
+2018-07-25 13:49:11,567 DEBUG    app.py         insert_irrigation:90  {'start': '2018-07-25 13:49:17.563384', 'duration': 0.15, 'liters': 5, 'end': '2018-07-25 13:49:26.563384', 'id_relay': 4}
+2018-07-25 13:49:11,636 DEBUG    model.py       __my_connect   :34  connected to database
+2018-07-25 13:49:11,650 DEBUG    model.py       __check_irrigation_collision:118 result set:()
+2018-07-25 13:49:11,651 DEBUG    model.py       insert_irrigation:93  collision:False
+2018-07-25 13:49:11,705 DEBUG    model.py       __my_connect   :34  connected to database
+2018-07-25 13:49:11,784 DEBUG    app.py         insert_irrigation:100 insert:True
+2018-07-25 13:49:11,784 DEBUG    irrigation.py  add_scheduler  :41  irrigation start: 0:00:05.778553
+2018-07-25 13:49:11,785 DEBUG    irrigation.py  add_scheduler  :42  irrigation end: 14.778553
+2018-07-25 13:49:17,597 DEBUG    relay.py       set_state      :40  gui.uva.es4 payload:ON hostname:gui.uva.es port:5578
+2018-07-25 13:49:17,597 DEBUG    irrigation.py  set_irrigation :30  state of relay: ON
+2018-07-25 13:49:26,593 DEBUG    relay.py       set_state      :40  gui.uva.es4 payload:OFF hostname:gui.uva.es port:5578
+2018-07-25 13:49:26,594 DEBUG    irrigation.py  set_irrigation :30  state of relay: OFF
+2018-07-25 13:49:26,594 DEBUG    irrigation.py  add_scheduler  :46  irrigation end
+2018-07-25 13:55:25,861 DEBUG    app.py         insert_irrigation:90  {'start': '2018-07-25 13:55:31.857767', 'duration': 0.15, 'end': '2018-07-25 13:55:40.857767', 'liters': 5, 'id_relay': 4}
+2018-07-25 13:55:25,916 DEBUG    model.py       __my_connect   :34  connected to database
+2018-07-25 13:55:25,927 DEBUG    model.py       __check_irrigation_collision:118 result set:()
+2018-07-25 13:55:25,928 DEBUG    model.py       insert_irrigation:93  collision:False
+2018-07-25 13:55:25,997 DEBUG    model.py       __my_connect   :34  connected to database
+2018-07-25 13:55:26,155 DEBUG    app.py         insert_irrigation:100 insert:True
+2018-07-25 13:55:26,156 DEBUG    irrigation.py  add_scheduler  :41  irrigation start: 0:00:05.701503
+2018-07-25 13:55:26,156 DEBUG    irrigation.py  add_scheduler  :42  irrigation end: 14.701503
+2018-07-25 13:55:31,885 DEBUG    relay.py       set_state      :40  gui.uva.es4 payload:ON hostname:gui.uva.es port:5578
+2018-07-25 13:55:31,886 DEBUG    irrigation.py  set_irrigation :30  state of relay: ON
+2018-07-25 13:55:40,887 DEBUG    relay.py       set_state      :40  gui.uva.es4 payload:OFF hostname:gui.uva.es port:5578
+2018-07-25 13:55:40,888 DEBUG    irrigation.py  set_irrigation :30  state of relay: OFF
+2018-07-25 13:55:40,888 DEBUG    irrigation.py  add_scheduler  :46  irrigation end

@@ -1,0 +1,40 @@
+2018-07-22 21:00:06,673 ERROR    model.py       select         :48  (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<ghTools.relay.Relay object at 0x7f86c76e1ba8> AND NOT\n                    (\n  ' at line 3")
+2018-07-22 21:01:24,706 ERROR    model.py       select         :49  (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<ghTools.relay.Relay object at 0x7f27bba8ab00> AND NOT\n                    (\n  ' at line 3")
+2018-07-22 21:01:24,707 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:05:57,404 ERROR    model.py       select         :49  (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<ghTools.relay.Relay object at 0x7f27ba59b208> AND NOT\n                    (\n  ' at line 3")
+2018-07-22 21:05:57,404 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:18:14,544 ERROR    model.py       select         :49  (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<ghTools.relay.Relay object at 0x7f27ba59b978> AND NOT\n                    (\n  ' at line 3")
+2018-07-22 21:18:14,545 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:19:00,267 ERROR    model.py       select         :49  (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<ghTools.relay.Relay object at 0x7f9bb3143748> AND NOT\n                    (\n  ' at line 3")
+2018-07-22 21:19:00,268 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:20:11,949 ERROR    model.py       select         :49  (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<ghTools.relay.Relay object at 0x7f9bb30e7860> AND NOT\n                    (\n  ' at line 3")
+2018-07-22 21:20:11,950 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:23:45,698 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:26:27,882 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:31:28,468 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:32:03,787 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:36:22,815 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:36:22,815 ERROR    model.py       insert_irrigation:93  Already closed
+2018-07-22 21:37:36,464 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:37:36,464 ERROR    model.py       insert_irrigation:93  Already closed
+2018-07-22 21:39:59,213 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:39:59,214 ERROR    model.py       insert_irrigation:95  Already closed
+2018-07-22 21:42:03,671 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:42:03,671 ERROR    model.py       insert_irrigation:95  Already closed
+2018-07-22 21:44:48,998 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:44:48,998 ERROR    model.py       insert_irrigation:95  Already closed
+2018-07-23 14:09:26,591 ERROR    model.py       insert_irrigation:106 Already closed
+2018-07-23 14:09:26,853 ERROR    model.py       insert_irrigation:106 Already closed
+2018-07-25 10:23:51,868 ERROR    model.py       __my_connect   :40  (1045, "Access denied for user 'kave'@'localhost' (using password: YES)")
+2018-07-25 10:36:29,094 ERROR    model.py       __my_connect   :40  (1045, "Access denied for user 'kave'@'localhost' (using password: YES)")
+2018-07-25 10:40:28,870 ERROR    model.py       __my_connect   :40  (1045, "Access denied for user 'kave'@'localhost' (using password: YES)")
+2018-07-25 12:16:23,920 ERROR    model.py       __my_connect   :80  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:16:41,932 ERROR    model.py       __my_connect   :80  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:16:56,946 ERROR    model.py       __my_connect   :80  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:17:08,965 ERROR    model.py       __my_connect   :80  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:32:50,989 ERROR    model.py       __my_connect   :90  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:34:11,994 ERROR    model.py       __my_connect   :90  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:34:44,008 ERROR    model.py       __my_connect   :90  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:35:05,016 ERROR    model.py       __my_connect   :90  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:41:38,070 ERROR    model.py       __my_connect   :97  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:41:38,070 ERROR    model.py       __my_connect   :97  (2013, 'Lost connection to MySQL server during query')

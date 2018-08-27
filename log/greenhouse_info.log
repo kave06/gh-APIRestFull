@@ -1,0 +1,123 @@
+2018-07-22 20:25:14,554 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 20:43:20,205 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 20:44:02,787 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 20:45:43,366 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 20:46:36,629 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 20:48:10,016 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 20:50:50,989 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 20:56:23,527 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 20:58:36,644 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 21:00:03,246 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 21:00:06,673 ERROR    model.py       select         :48  (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<ghTools.relay.Relay object at 0x7f86c76e1ba8> AND NOT\n                    (\n  ' at line 3")
+2018-07-22 21:01:18,881 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 21:01:24,706 ERROR    model.py       select         :49  (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<ghTools.relay.Relay object at 0x7f27bba8ab00> AND NOT\n                    (\n  ' at line 3")
+2018-07-22 21:01:24,707 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:05:57,404 ERROR    model.py       select         :49  (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<ghTools.relay.Relay object at 0x7f27ba59b208> AND NOT\n                    (\n  ' at line 3")
+2018-07-22 21:05:57,404 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:18:14,544 ERROR    model.py       select         :49  (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<ghTools.relay.Relay object at 0x7f27ba59b978> AND NOT\n                    (\n  ' at line 3")
+2018-07-22 21:18:14,545 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:18:56,568 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 21:19:00,267 ERROR    model.py       select         :49  (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<ghTools.relay.Relay object at 0x7f9bb3143748> AND NOT\n                    (\n  ' at line 3")
+2018-07-22 21:19:00,268 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:20:11,949 ERROR    model.py       select         :49  (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=<ghTools.relay.Relay object at 0x7f9bb30e7860> AND NOT\n                    (\n  ' at line 3")
+2018-07-22 21:20:11,950 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:23:42,211 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 21:23:45,698 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:26:24,786 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 21:26:27,882 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:31:28,468 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:32:03,787 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:36:18,769 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 21:36:22,815 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:36:22,815 ERROR    model.py       insert_irrigation:93  Already closed
+2018-07-22 21:37:28,957 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 21:37:36,464 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:37:36,464 ERROR    model.py       insert_irrigation:93  Already closed
+2018-07-22 21:39:54,883 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 21:39:59,213 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:39:59,214 ERROR    model.py       insert_irrigation:95  Already closed
+2018-07-22 21:41:58,284 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 21:42:03,671 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:42:03,671 ERROR    model.py       insert_irrigation:95  Already closed
+2018-07-22 21:43:07,636 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 21:44:33,550 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-22 21:44:48,998 ERROR    model.py       insert         :37  Cursor closed
+2018-07-22 21:44:48,998 ERROR    model.py       insert_irrigation:95  Already closed
+2018-07-23 11:02:29,990 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-23 11:02:49,606 INFO     model.py       insert_irrigation:83  there are irrigaition in the same hours
+2018-07-23 11:11:35,774 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-23 11:14:13,663 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-23 11:14:18,256 INFO     model.py       insert_irrigation:83  there are irrigaition in the same hours
+2018-07-23 11:17:32,273 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-23 11:18:17,572 INFO     model.py       insert_irrigation:83  there are irrigaition in the same hours
+2018-07-23 11:22:26,617 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-23 11:22:31,459 INFO     model.py       insert_irrigation:83  There is irrigation at the same time
+2018-07-23 11:32:20,567 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-23 11:35:23,851 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-23 11:35:27,376 INFO     model.py       insert_irrigation:82  There is irrigation at the same time
+2018-07-23 11:36:15,647 INFO     model.py       insert_irrigation:82  There is irrigation at the same time
+2018-07-23 11:36:25,544 INFO     model.py       insert_irrigation:82  There is irrigation at the same time
+2018-07-23 11:36:40,472 INFO     model.py       insert_irrigation:82  There is irrigation at the same time
+2018-07-23 11:36:42,961 INFO     model.py       insert_irrigation:82  There is irrigation at the same time
+2018-07-23 13:47:27,200 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-23 14:09:22,985 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-23 14:09:26,591 ERROR    model.py       insert_irrigation:106 Already closed
+2018-07-23 14:09:26,853 ERROR    model.py       insert_irrigation:106 Already closed
+2018-07-24 14:31:23,926 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-24 14:50:16,262 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-24 15:12:21,279 INFO     model.py       insert_irrigation:97  There is irrigation at the same time
+2018-07-25 10:23:38,716 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 10:23:51,868 ERROR    model.py       __my_connect   :40  (1045, "Access denied for user 'kave'@'localhost' (using password: YES)")
+2018-07-25 10:36:23,310 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 10:36:29,094 ERROR    model.py       __my_connect   :40  (1045, "Access denied for user 'kave'@'localhost' (using password: YES)")
+2018-07-25 10:40:24,264 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 10:40:28,870 ERROR    model.py       __my_connect   :40  (1045, "Access denied for user 'kave'@'localhost' (using password: YES)")
+2018-07-25 10:41:58,491 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 10:42:43,990 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 10:52:04,186 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 10:54:38,318 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 10:58:08,682 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 10:59:20,122 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 10:59:50,254 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 11:00:10,228 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 11:03:47,659 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 11:06:59,063 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 11:07:37,498 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 11:10:03,319 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 11:16:04,876 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 11:46:58,017 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 11:48:01,805 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 11:51:11,334 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 11:51:52,956 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 11:55:05,180 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 11:59:16,640 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 12:02:06,886 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 12:04:50,583 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 12:14:49,334 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 12:16:23,920 ERROR    model.py       __my_connect   :80  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:16:41,932 ERROR    model.py       __my_connect   :80  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:16:56,946 ERROR    model.py       __my_connect   :80  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:17:08,965 ERROR    model.py       __my_connect   :80  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:31:12,264 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 12:32:50,989 ERROR    model.py       __my_connect   :90  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:34:11,994 ERROR    model.py       __my_connect   :90  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:34:44,008 ERROR    model.py       __my_connect   :90  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:35:05,016 ERROR    model.py       __my_connect   :90  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:35:29,675 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 12:36:27,278 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 12:38:07,981 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 12:38:07,981 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 12:40:04,075 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 12:40:04,075 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 12:41:38,070 ERROR    model.py       __my_connect   :97  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:41:38,070 ERROR    model.py       __my_connect   :97  (2013, 'Lost connection to MySQL server during query')
+2018-07-25 12:43:11,212 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 12:43:11,212 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 13:01:36,135 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 13:01:36,135 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 13:06:52,811 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 13:09:32,454 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 13:11:58,521 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 13:14:18,324 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 13:47:17,483 INFO     app.py         <module>       :19  Init API Restfull
+2018-07-25 13:48:45,476 INFO     app.py         <module>       :19  Init API Restfull
